@@ -1,0 +1,24 @@
+{
+  "name": "hubot-jidan-no-jouken",
+  "version": "1.0.0",
+  "description": "Unfortunate bump from behind. Japanese internet jargon.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drunkar/hubot-jidan-no-jouken"
+  },
+  "keywords": [
+    "hubot",
+    "真夏の夜の淫夢",
+  ],
+  "author": "Drunkar",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/Drunkar/hubot-jidan-no-jouken/issues"
+  },
+  "homepage": "https://github.com/Drunkar/hubot-jidan-no-jouken"
+}
